@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://localhost:5000/api';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://unshippable-edith-centrolecithal.ngrok-free.dev/api';
 
 export type Task = {
   id: string;
